@@ -1,1 +1,1 @@
-This folder contain all the images used in the workshop for jupyter notebook.
+This folder contain all the images used in the Day 1  workshop for jupyter notebook.
