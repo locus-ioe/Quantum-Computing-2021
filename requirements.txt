@@ -229,7 +229,7 @@ tqdm==4.36.1
 traitlets==4.3.3
 tweedledum==1.1.0
 unicodecsv==0.14.1
-urllib3==1.24.2
+urllib3==1.26.5
 virtualenv==20.6.0
 wcwidth==0.1.7
 webencodings==0.5.1
